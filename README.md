@@ -56,10 +56,10 @@ By integrating real-time appointment booking, report management, and role-based 
 ## 🛠️ Tech Stack  
 
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
-- **Backend:** Flask / Django (Python)  
+  
 - **Database:** MySQL / SQLite  
-- **Authentication:** JWT / Flask-Login  
-- **Hosting:** Render / Heroku / AWS  
+  
+
 
 ---
 
